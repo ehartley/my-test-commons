@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/mapping-commons/mapping-commons-cookiecutter",
+  "commit": "8180306a556376494d5bd899e29c0c9d20176c80",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "my-test-commons",
+      "__project_slug": "my_test_commons",
+      "project_description": "Testing the Mapping Commons template.",
+      "github_or_gitlab": "github",
+      "git_org": "ehartley",
+      "full_name": "Emily Hartley",
+      "email": "ehartley@c-path.org",
+      "__author": "Emily Hartley <ehartley@c-path.org>",
+      "license": "No",
+      "_template": "https://github.com/mapping-commons/mapping-commons-cookiecutter"
+    }
+  },
+  "directory": null
+}
