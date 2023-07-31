@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/mapping-commons/mapping-commons-cookiecutter",
-  "commit": "8180306a556376494d5bd899e29c0c9d20176c80",
+  "commit": "992496f2e6b59f98d73734a75016b8f6dd9b2eff",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -13,6 +13,7 @@
       "email": "ehartley@c-path.org",
       "__author": "Emily Hartley <ehartley@c-path.org>",
       "license": "No",
+      "inverse_mappings": "No",
       "_template": "https://github.com/mapping-commons/mapping-commons-cookiecutter"
     }
   },

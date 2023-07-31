@@ -1,0 +1,14 @@
+{
+  "context": {
+    "cookiecutter": {
+      "project_name": "my-test-commons",
+      "project_description": "Testing the Mapping Commons template.",
+      "github_or_gitlab": "github",
+      "git_org": "ehartley",
+      "full_name": "Emily Hartley",
+      "email": "ehartley@c-path.org",
+      "license": "No",
+      "inverse_mappings": "No"
+    }
+  }
+}
