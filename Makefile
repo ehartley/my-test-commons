@@ -32,11 +32,6 @@ $(MAPPING_DIR)/ $(SCRIPT_DIR)/ $(SRC_DIR)/ $(TMP_DIR)/:
 mapping-%:
 	make $(MAPPING_DIR)/$*.sssom.tsv -B
 
-$(MAPPING_DIR)/%.sssom.tsv: 
-	mkdir -p $(MAPPING_DIR)
-	
-
-
 .PHONY: mappings
 mappings:
 	make $(shell grep local_name registry.yml | sed 's/local_name: /$(MAPPING_DIR)\//' )
